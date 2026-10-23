@@ -2,7 +2,7 @@
 
 Source-free, label-free fair adaptation of a GNN: only a frozen source task encoder and a sensitive head cross from the source graph, and on the target the method reads node features and edges only.
 
-**Under review at AISTATS.**
+**Paper under review.**
 
 ## Layout
 
